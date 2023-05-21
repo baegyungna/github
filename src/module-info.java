@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author baeyh
- *
- */
-module github {
-}
